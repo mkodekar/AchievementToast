@@ -5,7 +5,7 @@ Alternative to show Toast or an alert message just inside your activity.
 It follows any view group but wont display outside your Activity.
 
 ##Preview
-https://github.com/mkodekar/AchievementToast/blob/master/achievementtoastlibrary/blobs/AchievementToast.gif
+![gif](https://github.com/mkodekar/AchievementToast/blob/master/achievementtoastlibrary/blobs/AchievementToast.gif)
 
 ##Credits
 
