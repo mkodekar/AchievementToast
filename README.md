@@ -33,8 +33,8 @@ and in app level gradle file under dependencies
 ```
 
 ##Usage
-Just use it as you use toast but you unlike toast it has multiple method inferences/ implementation
-please refere to the sameple app for more details.
+Just use it as you use toast but unlike toast it has multiple method inferences / implementation
+please refer to the sample app for more details.
 
 
 ## Contributing
