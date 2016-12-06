@@ -32,6 +32,10 @@ and in app level gradle file under dependencies
     compile 'com.github.mkodekar:AchievementToast:0.1'
 ```
 
+Grab the above demo app from here :
+
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.merkmod.myapplication)
+
 ##Usage
 Just use it as you use toast but unlike toast it has multiple method inferences / implementation
 please refer to the sample app for more details.
